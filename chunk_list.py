@@ -4,4 +4,4 @@ n = int(input())
 r = []
 for i in range(0, len(nl), n):
     r += [nl[i:n+i]]
-print(r)
+print(r) 
